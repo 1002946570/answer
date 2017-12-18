@@ -16,7 +16,7 @@ package answer;
 	
 	( -1, -1, 2 )
  */
-public class problem2 {
+public class Problem2 {
 	private static int[] a = {-1,0,1,2,-1,-4};;
 	public static void main(String[] args) {
 		quickSort(0,a.length-1);
